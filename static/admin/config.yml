@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: sstaurross/gatsby-netlify-blog
+  repo: sstauross/gatsby-netlify-blog
 
 media_folder: content/assets
 public_folder: ../assets
